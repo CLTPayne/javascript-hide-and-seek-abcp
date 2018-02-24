@@ -2,7 +2,6 @@ function getFirstSelector(selector) {
   return document.querySelector(selector)
 }
 
-function nestedTarget(elmSel) {
-  document.querySelectorAll(elmSel)
-  return .target
+function nestedTarget('div.target') {
+  document.querySelectorAll(div.target)
 }
