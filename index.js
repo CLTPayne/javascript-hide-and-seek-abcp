@@ -4,4 +4,5 @@ function getFirstSelector(selector) {
 
 function nestedTarget(elmSel) {
   document.querySelectorAll(elmSel)
+  return .target
 }
